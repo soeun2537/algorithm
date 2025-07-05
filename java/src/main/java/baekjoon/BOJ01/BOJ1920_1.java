@@ -5,7 +5,7 @@ import java.io.*;
 
 // ArrayList를 사용하면 조회 연산의 평균 시간 복잡도는 O(n)이다.
 // HashSet을 사용하면 조회 연산의 평균 시간 복잡도는 O(1)이다.
-public class BOJ1920 {
+public class BOJ1920_1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
